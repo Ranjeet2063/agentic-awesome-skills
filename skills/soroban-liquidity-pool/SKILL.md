@@ -106,8 +106,8 @@ How do I configure and track Soroban Liquidity Pool Architecture for our product
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
+- @soroban-contract-audit - provides the security checklist and vulnerability categorization.
+- @soroban-token-minter - covers SEP-41 token supply, admin and event modelling.
 - @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
 
 ## Reusable Prompt

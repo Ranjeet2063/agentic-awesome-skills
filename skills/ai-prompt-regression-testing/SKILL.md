@@ -118,9 +118,9 @@ How do I configure and track AI Prompt Regression Test Matrix for our production
 
 ## Related Skills
 
+- @ai-agent-tool-routing - covers tool schema registration and retry policy.
+- @cross-chain-relayer-audit - covers message hashes, nonces and quorum proofs.
 - @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
 
 ## Reusable Prompt
 

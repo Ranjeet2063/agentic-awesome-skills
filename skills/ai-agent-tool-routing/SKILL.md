@@ -124,9 +124,9 @@ How do I configure and track Autonomous AI Agent Tool Routing for our production
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
+- @ai-prompt-regression-testing - covers prompt regression baselines and drift.
 - @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @cross-chain-relayer-audit - covers message hashes, nonces and quorum proofs.
 
 ## Reusable Prompt
 

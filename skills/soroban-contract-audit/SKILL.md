@@ -125,8 +125,8 @@ How do I configure and track Soroban Contract Security Audit for our production 
 ## Related Skills
 
 - @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @soroban-liquidity-pool - covers AMM invariant and LP-share modelling.
+- @soroban-token-minter - covers SEP-41 token supply, admin and event modelling.
 
 ## Reusable Prompt
 

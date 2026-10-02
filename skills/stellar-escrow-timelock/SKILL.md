@@ -106,9 +106,9 @@ How do I configure and track Stellar Escrow and Timelock Architecture for our pr
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @stellar-anchor-integration - covers SEP-10 and SEP-24 anchor compliance flows.
+- @soroban-contract-audit - provides the security checklist and vulnerability categorization.
+- @cross-chain-relayer-audit - covers message hashes, nonces and quorum proofs.
 
 ## Reusable Prompt
 
