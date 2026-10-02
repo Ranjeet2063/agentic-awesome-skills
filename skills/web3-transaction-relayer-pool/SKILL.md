@@ -112,9 +112,9 @@ How do I configure and track Web3 Transaction Relayer Pool Management for our pr
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
+- @cross-chain-relayer-audit - covers message hashes, nonces and quorum proofs.
 - @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @soroban-contract-audit - provides the security checklist and vulnerability categorization.
 
 ## Reusable Prompt
 

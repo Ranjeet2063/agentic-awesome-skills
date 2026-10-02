@@ -112,9 +112,9 @@ How do I configure and track AI Agent Capability Evaluation & Benchmarking for o
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @ai-agent-tool-routing - covers tool schema registration and retry policy.
+- @ai-prompt-regression-testing - covers prompt regression baselines and drift.
+- @ai-code-generation-guardrails - covers static guardrails for generated code.
 
 ## Reusable Prompt
 

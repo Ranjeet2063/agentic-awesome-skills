@@ -106,9 +106,9 @@ How do I configure and track Soroban Oracle Data Feed Audit for our production e
 
 ## Related Skills
 
+- @soroban-contract-audit - provides the security checklist and vulnerability categorization.
+- @soroban-storage-ttl-lifecycle - covers ledger rent and TTL extension policy.
 - @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
 
 ## Reusable Prompt
 

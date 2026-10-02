@@ -106,8 +106,8 @@ How do I configure and track Soroban Storage TTL & Rent Lifecycle for our produc
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
+- @soroban-contract-audit - provides the security checklist and vulnerability categorization.
+- @soroban-oracle-data-feed-audit - covers oracle heartbeat and stale-price handling.
 - @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
 
 ## Reusable Prompt

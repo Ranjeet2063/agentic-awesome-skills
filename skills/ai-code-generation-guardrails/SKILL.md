@@ -130,9 +130,9 @@ How do I configure and track AI Code Generation Security Guardrails for our prod
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @ai-agent-tool-routing - covers tool schema registration and retry policy.
+- @ai-agent-evaluation-benchmarking - covers task-completion and cost benchmarking.
+- @ai-prompt-regression-testing - covers prompt regression baselines and drift.
 
 ## Reusable Prompt
 

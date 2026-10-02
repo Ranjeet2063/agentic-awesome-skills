@@ -118,9 +118,9 @@ How do I configure and track Smart Contract Upgrade Governance for our productio
 
 ## Related Skills
 
+- @soroban-contract-audit - provides the security checklist and vulnerability categorization.
 - @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @stellar-multisig-threshold-coordinator - covers signer weights and threshold coordination.
 
 ## Reusable Prompt
 

@@ -112,9 +112,9 @@ How do I configure and track DeFi Yield Strategy Allocation Register for our pro
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
+- @soroban-liquidity-pool - covers AMM invariant and LP-share modelling.
 - @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @soroban-oracle-data-feed-audit - covers oracle heartbeat and stale-price handling.
 
 ## Reusable Prompt
 

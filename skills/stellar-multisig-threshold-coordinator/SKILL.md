@@ -100,9 +100,9 @@ How do I configure and track Stellar Multi-Sig Threshold Coordinator for our pro
 
 ## Related Skills
 
-- @smart-contract-formal-verification - verifies state invariants mathematically.
-- @soroban-contract-audit - provides security checklist and vulnerability categorization.
-- @web3-rate-limiting-circuit-breaker - provides operational guardrails and threshold breakers.
+- @stellar-anchor-integration - covers SEP-10 and SEP-24 anchor compliance flows.
+- @stellar-escrow-timelock - covers conditional escrow and timelock settlement.
+- @soroban-contract-audit - provides the security checklist and vulnerability categorization.
 
 ## Reusable Prompt
 
